@@ -3,6 +3,8 @@ layout: page
 title: 'Experience'
 ---
 
+[About Me](https://paulbliemegger.github.io/aboutme)
+
 ## Gaming Related Projects
 
 #### Bachelor Thesis "[Vreeclimber](https://www.vreeclimber.at/)"

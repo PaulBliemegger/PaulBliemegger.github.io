@@ -2,8 +2,9 @@
 layout: page
 title: 'About Me'
 permalink: /aboutme
-footerheading: 'hello'
 ---
+
+[Professional Experience](https://paulbliemegger.github.io)
 
 > Contact:  
 > [LinkedIn](https://www.linkedin.com/in/paul-bliemegger-3a864718a/)
