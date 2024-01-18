@@ -46,4 +46,6 @@ title: 'Experience'
 - Game Design, part of game development team, improving existing games
 - Created Web Application to show core KPIs and simplify administrative work
 
+\
+\
 [<ins>About Me</ins>](https://paulbliemegger.github.io/aboutme)

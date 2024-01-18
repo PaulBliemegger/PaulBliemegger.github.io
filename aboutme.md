@@ -25,4 +25,6 @@ I am currently working as a Web Developer, as this was a convenient way to earn 
 
 As much as I have learned from my current job, it has also shown me that I finally want to commit to Game Development as my true passion. My favourite kind of work has always been to create amazing experiences, especially with people who are equally interested and I look back fondly to every opportunity that I had in the past.
 
+\
+\
 [<ins>Professional Experience</ins>](https://paulbliemegger.github.io)
