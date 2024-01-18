@@ -2,6 +2,7 @@
 layout: page
 title: 'About Me'
 permalink: /aboutme
+footerheading: 'hello'
 ---
 
 > Contact:  
