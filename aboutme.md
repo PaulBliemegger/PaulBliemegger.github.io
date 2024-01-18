@@ -4,7 +4,7 @@ title: 'About Me'
 permalink: /aboutme
 ---
 
-[Professional Experience](https://paulbliemegger.github.io)
+### [Professional Experience](https://paulbliemegger.github.io)
 
 > Contact:  
 > [LinkedIn](https://www.linkedin.com/in/paul-bliemegger-3a864718a/)

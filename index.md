@@ -3,7 +3,7 @@ layout: page
 title: 'Experience'
 ---
 
-[About Me](https://paulbliemegger.github.io/aboutme)
+### [About Me](https://paulbliemegger.github.io/aboutme)
 
 ## Gaming Related Projects
 
