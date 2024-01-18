@@ -3,9 +3,7 @@ layout: page
 title: 'Home'
 ---
 
-### Gaming Related Projects
-
----
+## Gaming Related Projects
 
 #### Bachelor Thesis "[Vreeclimber](https://www.vreeclimber.at/)"
 
@@ -25,8 +23,6 @@ title: 'Home'
 - focus on 3D and Unity DOTS
 
 ## About me
-
----
 
 I have over 2 years of work experience as a frontend developer. As such, I worked on multiple projects with varying team sizes.
 I gathered experience in Angular and React, while most of it was the latter, more recently with NextJS.
