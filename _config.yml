@@ -1,5 +1,11 @@
 theme: minima
 
+description: >
+  This is my personal website to show off my professional experience and work motivation.
+author:
+  name: Paul Bliemegger
+  email: pbliemegger@gmail.com
+
 header_pages:
   - index.md
   - aboutme.md
