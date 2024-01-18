@@ -4,8 +4,6 @@ title: 'About Me'
 permalink: /aboutme
 ---
 
-#### [<ins>Professional Experience</ins>](https://paulbliemegger.github.io)
-
 > Contact:  
 > [LinkedIn](https://www.linkedin.com/in/paul-bliemegger-3a864718a/)
 
@@ -26,3 +24,5 @@ At the end of my bachelors I decided to focus more on learning about Game Engine
 I am currently working as a Web Developer, as this was a convenient way to earn money during the end of my studies. Through it, I managed to gather meaningful practical experience as a developer as a whole, but I also learned what it means to work in teams of varying sizes. I had to deal with fast changing requirements and new challenges on a daily basis, especially ever since I was part of the AI department from day one. Additionally, due to the necessity of adapting to new frameworks and tools on a regular basis, I have developed a proficiency in quickly acquainting myself with them.
 
 As much as I have learned from my current job, it has also shown me that I finally want to commit to Game Development as my true passion. My favourite kind of work has always been to create amazing experiences, especially with people who are equally interested and I look back fondly to every opportunity that I had in the past.
+
+[<ins>Professional Experience</ins>](https://paulbliemegger.github.io)

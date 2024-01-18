@@ -1,1 +1,8 @@
 theme: minima
+
+header_pages:
+  - index.md
+  - aboutme.md
+
+minima:
+  skin: auto
