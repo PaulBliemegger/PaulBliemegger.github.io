@@ -7,6 +7,8 @@ permalink: /aboutme
 > Contact:  
 > [LinkedIn](https://www.linkedin.com/in/paul-bliemegger-3a864718a/)
 
+<ins><a href='PaulBliemegger_CV.pdf'>Download CV</a></ins>
+
 I have over 2 years of work experience as a frontend developer. As such, I worked on multiple projects with varying team sizes.
 I gathered experience in Angular and React, while most of it was the latter, more recently with NextJS.
 

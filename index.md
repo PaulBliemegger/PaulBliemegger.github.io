@@ -5,6 +5,8 @@ title: 'Experience'
 
 ## Gaming Related Projects
 
+<ins><a href='PaulBliemegger_CV.pdf'>Download CV</a></ins>
+
 #### Bachelor Thesis "[Vreeclimber](https://www.vreeclimber.at/)"
 
 - VR experience on a physical infinitely rolling vertical climbing wall
